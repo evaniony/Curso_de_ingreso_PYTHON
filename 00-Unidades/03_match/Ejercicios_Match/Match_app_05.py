@@ -6,8 +6,8 @@ import customtkinter
 
 
 '''
-nombre:
-apellido:
+nombre: Eva Gabriela
+apellido: Quinteros Gonzalez
 ---
 Ejercicio: Match_05
 ---
